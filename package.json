@@ -1,0 +1,25 @@
+{
+  "name": "taskmanagementapp",
+  "version": "1.0.0",
+  "description": "\"シンプルでタスク管理のウェブアプリケーション\"",
+  "main": "(app.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-S-Y/taskmgmt.git"
+  },
+  "keywords": [
+    "[\"タスク管理\"",
+    "\"ウェブアプリケーション\"",
+    "\"ToDoリスト\"",
+    "\"プロジェクト管理\"]"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-S-Y/taskmgmt/issues"
+  },
+  "homepage": "https://github.com/R-S-Y/taskmgmt#readme"
+}
